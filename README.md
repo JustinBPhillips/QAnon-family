@@ -6,7 +6,7 @@ Online supplement and materials for:
 
 ## Repository Contents
 
-- Python and R code; word clouds; and topic model documents.
+- Python and R code; and topic model documents.
 
 ## Citation
 
